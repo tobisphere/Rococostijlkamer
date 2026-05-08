@@ -1,0 +1,11 @@
+{
+	"BuildId": "37670630",
+	"Modules": 
+	{
+		"ChaunceyAssetEditor": "UnrealEditor-ChaunceyAssetEditor.dll",
+		"ChaunceyClient": "UnrealEditor-ChaunceyClient.dll",
+		"ChaunceyRuntime": "UnrealEditor-ChaunceyRuntime.dll",
+		"ChaunceyWebEditor": "UnrealEditor-ChaunceyWebEditor.dll",
+		"WebBridge": "UnrealEditor-WebBridge.dll"
+	}
+}

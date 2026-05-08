@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\julin\\Documents\\Unreal Projects\\Scan_demo\\Plugins\\chauncey-binding-plugin\\Source\\BindingAssetEditor\\BindingAssetEditor.Build.cs",
+		"C:\\Users\\julin\\Documents\\Unreal Projects\\Scan_demo\\Plugins\\chauncey-binding-plugin\\Source\\BindingAsset\\BindingAsset.Build.cs",
+		"C:\\Users\\julin\\Documents\\Unreal Projects\\Scan_demo\\Plugins\\chauncey-unreal-plugin\\Source\\ChaunceyClient\\ChaunceyClient.Build.cs",
+		"C:\\Users\\julin\\Documents\\Unreal Projects\\Scan_demo\\Plugins\\chauncey-unreal-plugin\\Source\\ChaunceyEditor\\ChaunceyEditor.Build.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
