@@ -1,6 +1,0 @@
-[4656:24856:0507/205254.521:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4656:24856:0507/205254.571:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13168:16084:0507/205335.809:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D2686CE8FA4F21E361BDF7AB424F0B9D will be ignored
-[13620:3964:0507/205738.292:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4656:17692:0507/205738.303:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[4656:24856:0507/221938.944:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
