@@ -1,0 +1,13 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyClient\\Module.ChaunceyClient.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyClient\\ChaunceyClient.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyClient\\ChaunceyDataContext.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyClient\\ChaunceyDataRouter.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyClient\\ChaunceyRestAPI.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyClient\\ChaunceySettings.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyClient\\ChaunceySettingsProfile.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyClient\\ChaunceySubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyClient\\ChaunceyWebExtension.cpp.obj"
+	]
+}

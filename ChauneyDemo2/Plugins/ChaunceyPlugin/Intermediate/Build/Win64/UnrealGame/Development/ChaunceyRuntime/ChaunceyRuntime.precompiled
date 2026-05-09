@@ -1,0 +1,9 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyRuntime\\Module.ChaunceyRuntime.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyRuntime\\BFL_PublishChannel.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyRuntime\\ChaunceyActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyRuntime\\ChaunceyAsset.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ChaunceyRuntime\\ChaunceyRuntimeModule.cpp.obj"
+	]
+}

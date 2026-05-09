@@ -1,0 +1,12 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\WebBridge\\Module.WebBridge.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\WebBridge\\WebBridge.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\WebBridge\\WebBridgeBrowser.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\WebBridge\\WebBridgeBrowserWidget.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\WebBridge\\WebBridgeExtension.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\WebBridge\\WebBridgeLocalSchemeHandler.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\WebBridge\\WebBridgeLocalSchemeHandlerFactory.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\WebBridge\\WebBridgeSubsystem.cpp.obj"
+	]
+}
